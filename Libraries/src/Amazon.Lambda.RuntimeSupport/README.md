@@ -2,7 +2,7 @@
 
 The Amazon.Lambda.RuntimeSupport package is a .NET Lambda Runtime Interface Client (RIC) for the [Lambda Runtime API](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-api.html).
 The Lambda Runtime Interface Client allows your runtime to receive requests from and send requests to the Lambda service.
-It can be used for building .NET Lambda functions as either custom runtimes or container images. Starting with the .NET 6 this is also the Lambda rutime client used in managed runtimes.
+It can be used for building .NET Lambda functions as either custom runtimes or container images. Starting with the .NET 6 this is also the Lambda runtime client used in managed runtimes.
 
 
 ## Container Image support
